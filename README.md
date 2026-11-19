@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Registration System (React.js)
 
 Features: register, view all, search, update, delete students,
@@ -12,3 +13,6 @@ POST, GET, PUT and DELETE.
 4. Open the link Vite prints (usually http://localhost:5173)
 
 Using a real API? Change `API_URL` at the top of `src/App.jsx`.
+=======
+# STUDENT_REGISTRATION
+>>>>>>> ef2b3c69c1682b9e0bd148372a1a11acb94155d4
